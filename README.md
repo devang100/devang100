@@ -1,3 +1,34 @@
+# 👋 Welcome to my GitHub!
+
+I'm **Devang Patel**, a Computer Science graduate from CHARUSAT University, passionate about building smart, scalable, and meaningful software solutions.
+
+## 🔧 Tech I'm confident with:
+- 💻 Frontend: HTML | CSS | JavaScript | React | Tailwind  
+- 🖥️ Backend: Node.js | Express.js | PHP | Python  
+- 📊 ML: Scikit-learn | TensorFlow | Pandas  
+- 🌐 CMS: WordPress  
+- 🔌 Tools: Git | SQLite | VS Code
+
+## 🧠 Recent Projects:
+- 🧑‍🏫 **Facial Recognition Attendance System**  
+  Built a face recognition-based attendance system using ML and OpenCV.  
+  Used Haarcascade & LBPH for face detection/recognition and integrated with MySQL for storing attendance records.
+
+- ✋ **SilentSense – Gesture, Speech, and Text Translator**  
+  A real-time AI-based translator for the deaf and mute.  
+  Built with CNN and Mediapipe for gesture recognition; integrated Google APIs for speech/text translation.  
+  Created custom datasets and used preprocessing techniques for gesture classification.
+
+- 🍔 **FlavourHub – Full Stack Food Ordering Web App**  
+  Developed a modern food ordering app with features like real-time tracking, menu management, media uploads, and Auth0 authentication.  
+  Stack: ReactJS (Vite), Node.js, Express, MongoDB, TypeScript, Cloudinary, Render.
+
+## 🌱 Currently Exploring:
+- Generative AI | IoT & Sensor-based Projects | SaaS Product Ideas
+
+## 🧳 Looking For:
+- Full-time software roles / remote internships  
+- Freelance gigs (Web Dev / ML)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devang.100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devang-patel2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devangpatel110406@gmail.com ) 
