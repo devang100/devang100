@@ -10,7 +10,7 @@ My current focus is on building reliable, scalable software using **TypeScript, 
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering — CHARUSAT, 2025
+- 🎓 B.Tech in Computer Science & Engineering - CHARUSAT, 2025
 - 💻 Currently working as a WordPress Developer at Rang Digitech
 - ⚙️ Experienced in frontend, backend, APIs, databases and production deployments
 - 🌐 Building full-stack applications with TypeScript, React, Next.js and Node.js
