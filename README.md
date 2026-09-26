@@ -1,59 +1,134 @@
-# 👋 Welcome to my GitHub!
+# 👋 Hi, I'm Devang Patel
 
-I'm **Devang Patel**, a Computer Science graduate from CHARUSAT University, passionate about building smart, scalable, and meaningful software solutions.
+### Software Engineer | Full-Stack Developer
 
-## 🔧 Tech I'm confident with:
-- 💻 Frontend: HTML | CSS | JavaScript | React | Tailwind  
-- 🖥️ Backend: Node.js | Express.js | PHP | Python  
-- 📊 ML: Scikit-learn | TensorFlow | Pandas  
-- 🌐 CMS: WordPress  
-- 🔌 Tools: Git | SQLite | VS Code
+I'm a Computer Science graduate from **CHARUSAT University** with professional experience building and maintaining production web applications.
 
-## 🧠 Recent Projects:
-- 🧑‍🏫 **Facial Recognition Attendance System**  
-  Built a face recognition-based attendance system using ML and OpenCV.  
-  Used Haarcascade & LBPH for face detection/recognition and integrated with MySQL for storing attendance records.
-
-- ✋ **SilentSense – Gesture, Speech, and Text Translator**  
-  A real-time AI-based translator for the deaf and mute.  
-  Built with CNN and Mediapipe for gesture recognition; integrated Google APIs for speech/text translation.  
-  Created custom datasets and used preprocessing techniques for gesture classification.
-
-- 🍔 **FlavourHub – Full Stack Food Ordering Web App**  
-  Developed a modern food ordering app with features like real-time tracking, menu management, media uploads, and Auth0 authentication.  
-  Stack: ReactJS (Vite), Node.js, Express, MongoDB, TypeScript, Cloudinary, Render.
-
-## 🌱 Currently Exploring:
-- Generative AI | IoT & Sensor-based Projects | SaaS Product Ideas
-
-## 🧳 Looking For:
-- Full-time software roles / remote internships  
-- Freelance gigs (Web Dev / ML)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devang.100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devang-patel2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devangpatel110406@gmail.com ) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devang100&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devang100&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devang100&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devang100&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devang100&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My current focus is on building reliable, scalable software using **TypeScript, React, Next.js, Node.js and PostgreSQL**, while strengthening my foundations in **Data Structures & Algorithms, Computer Science, System Design and AI engineering**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devang100&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Devang116) 
+## 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 B.Tech in Computer Science & Engineering — CHARUSAT, 2025
+- 💻 Currently working as a WordPress Developer at Rang Digitech
+- ⚙️ Experienced in frontend, backend, APIs, databases and production deployments
+- 🌐 Building full-stack applications with TypeScript, React, Next.js and Node.js
+- 🗄️ Working with PostgreSQL, MongoDB and SQL
+- 🧠 Currently deepening my knowledge of DSA, system design and software engineering
+- 🤖 Exploring AI-powered applications and LLM-based systems
+- 🔧 Interested in building scalable, production-ready software
+
+---
+
+## 🛠️ Core Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frontend & Full-Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### CMS & Website Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C0C0C?style=flat-square&logo=wix&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat-square&logo=squarespace&logoColor=white)
+
+### Hosting, Deployment & Infrastructure
+
+- Hostinger
+- Hostinger VPS
+- DigitalOcean
+- Cloudflare
+- DNS & Domain Configuration
+- SSL/TLS
+- CDN & Caching
+- Linux Server Administration
+- Production Deployments
+- Server Configuration
+- Database Configuration
+- Application Deployment
+
+### DevOps & Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- CI/CD
+- Environment Configuration
+- Server Logs & Monitoring
+- Production Debugging
+- Performance Optimization
+- Security & Troubleshooting
+- API Integrations
+
+## 🔥 Featured Projects
+
+### 🏢 SaaS / Full-Stack Applications
+
+Building production-style applications with:
+
+- Next.js
+- TypeScript
+- Node.js
+- PostgreSQL
+- Authentication & Authorization
+- REST APIs
+- Role-Based Access Control
+- Background Jobs
+- Redis
+- Docker
+
+### 🤖 AI Applications
+
+Exploring practical AI systems using:
+
+- LLM APIs
+- RAG
+- Embeddings
+- Vector databases
+- AI-powered search
+- Document processing
+- AI agents and tool calling
+
+### 🖥️ SilentSense
+
+**Gesture → Text | Speech → Text | Translation**
+
+A real-time AI-based application combining computer vision, speech recognition and translation.
+
+- Gesture recognition
+- Speech-to-text
+- Translation
+- Computer vision
+- Real-time processing
+
+### 🍽️ FlavorHub
+
+**Full-Stack Food Ordering Platform**
+
+Built using modern full-stack technologies with:
+
+- React
+- TypeScript
+- Vite
+- Node.js
+- MongoDB
+- Auth0
+- Stripe
